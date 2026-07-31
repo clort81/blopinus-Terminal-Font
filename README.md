@@ -23,6 +23,6 @@ Some sample pics made with Chafa:
 
 ![Truecolor Text Art with Blopinus](blopinus-40smoviestar-cap.png)
 
-I could go on. 
+I could go on. It's the best.  Help others realize this.
 
 Pictures converted with hpjansson's "chafa" convertor.
