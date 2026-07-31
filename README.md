@@ -5,6 +5,12 @@ The most important feature, that all terminal fonts should adopt, is braille u28
 
 ![Block Braille](blopinus-braille-cap.png)
 
+It features extensive PUA-range graphic rendering glyphs:
+
+![Blopinus PUA](blopinuscap.png)
+
+Some sample pics made with Chafa:
+
 ![strawberry mouth text art](blopinus-strawberry-cap.png)
 
 ![cabin on lake textart](blopinus-lake-cap.png)
